@@ -1,3 +1,2 @@
 # TheHangManGame
-A simple and interactive Hangman game built using Python, where players guess letters to uncover a hidden word before running out of attempts.
-This project is a classic implementation of the Hangman word guessing game, where the player must guess a hidden word one letter at a time. With each incorrect guess, the hangman figure progresses closer to completion. The goal is to guess the word before the figure is fully drawn.
+This is a simple and fun Hangman game built using Python. The idea is pretty straightforward, you try to guess a hidden word one letter at a time. Every wrong guess brings the hangman closer to being fully drawn, so you have to be careful with your choices. It’s a classic game that’s easy to play but still challenging, and the goal is to figure out the word before you run out of attempts.
